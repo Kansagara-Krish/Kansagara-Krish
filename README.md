@@ -30,8 +30,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/krish-kansagara-6093352b4/details/skills/" target="_blank"><img src="https://img.icons8.com/color/40/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/Kansagara-Krish" target="_blank"><img src="https://img.icons8.com/color/40/github--v1.png" alt="GitHub"/></a>
-  <a href="https://twitter.com/intent/tweet?text=Hi%20I%27m%20Krish%20Kansagara" target="_blank"><img src="https://img.icons8.com/color/40/twitter--v1.png" alt="Twitter"/></a>
-  <a href="https://kansagara-demo.example.com" target="_blank"><img src="https://img.icons8.com/color/40/domain.png" alt="Portfolio"/></a>
+  <a href="https://p-psi-six.vercel.app/" target="_blank"><img src="https://img.icons8.com/color/40/domain.png" alt="Portfolio"/></a>
 </p>
 
 <hr />
