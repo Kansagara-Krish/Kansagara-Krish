@@ -13,7 +13,7 @@
   </p>
 
   <ul>
-    <li>🔭 <strong>Currently working on:</strong> AI/ML and full-stack projects</li>
+    <li>🔭 <strong>Currently working on:</strong> AI/ML,Python and full-stack projects</li>
     <li>🌱 <strong>Learning:</strong> Machine Learning, Deep Learning, modern web technologies</li>
     <li>🤝 <strong>Open to:</strong> AI/ML and impactful web projects</li>
     <li>💬 <strong>Ask me about:</strong> AI, ML, Web Development</li>
